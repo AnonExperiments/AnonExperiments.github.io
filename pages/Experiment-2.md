@@ -10,14 +10,16 @@ Protocol ----
 
 # Instrumentation
 
-For this experiment we used PowerPoint slides. We used a template and then generaded more pptx for each participants using a different menu order of use. This template can be downloaded [here](downloads/instrumentation/slides.pptx)
+For this experiment we used PowerPoint slides. We used a template and then generaded more pptx for each participants using a different menu order of use. This template can be downloaded [here](downloads/instrumentation/slides.pptx) (In Spanish)
 
-After the experimental sesion, participants had to fill a questionnaire, which can be downlaoded [here](downloads/instrumentation/questionnaire.xlsm)
+After the experimental sesion, participants had to fill a questionnaire, which can be downlaoded [here](downloads/instrumentation/questionnaire.xlsm) (In Spanish)
 
 
 # Data
 
 The obtained metrics from [SennsCloud]() calculations can be downloaded [here](downloads/data/metrics.xlsx)
+
+
 
 # Results
 
