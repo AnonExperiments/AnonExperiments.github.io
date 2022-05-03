@@ -28,17 +28,17 @@ We represented the different graphical adaptive menus using an interactive slide
 The UEQ-S consists of eight items that are grouped into two scales (hedonic quality and pragmatic quality). As shown in the following table, each item has a positive and a negative value that must be rated from 1 (being the negative value of the item) to 7 (being the positive value of the item), and 4 being the neutral value.
 
 | Scale       | ID 	| Negative Value | Positive Value |
-| ----------- | --- |----------- |----------- |----------- |
+| -------- | --- |----------- |----------- |----------- |
 | Pragmatic Quality | I1 | obstructive| supportive |
 | ^ | I2 | complicated| easy |
 | ^ | I3 | inefficient| efficient |
 | ^ | I4 | confusing| clear |
-| ----------- | --- |----------- |----------- |----------- |
+| -------- | --- |----------- |----------- |----------- |
 | Hedonic Quality   | I5 | boring| exciting |
 |^ | I6 | not interesting | interesting |
 |^ | I7 | conventional| inventive |
 |^ | I8 | usual| leading edge |
-| ----------- | --- |----------- |----------- |----------- |
+| -------- | --- |----------- |----------- |----------- |
 
 
 
@@ -59,7 +59,7 @@ The results for the qustionnaires can be dowloaded [here](downloads/data/questio
 
 # Results
 
-The results of the descriptive analysis performed over the emotion-based variables can be found [here](downloads/results/menuResults.html)
+The results of the descriptive analysis performed over the emotion-based variables can be found [here](downloads/results/menuResults)
 
 The results of the questionnaires analysis performed for each menu:
 
