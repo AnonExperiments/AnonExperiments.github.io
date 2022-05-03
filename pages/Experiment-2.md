@@ -11,14 +11,31 @@ We carried out a strict internal replication of the baseline experiment [[_elimi
 
 # Instrumentation
 
+## Device
+
 We used [Bitbrain's Diadem headset](https://www.bitbrain.com/neurotechnology-products/dry-eeg/diadem). The following image illustrates the headset and its electrode placement.
  ![Diadem and electrode placement](/assets/images/Diadem.pdf)
+
+## Slides
 
 We represented the different graphical adaptive menus using an interactive slide presentation. Our menu representationswere based on two different domains: a mail manager software and a web browser.
 
  ![Menu and its domains: Mail manager](/assets/images/menus.png)
  ![Menu and its domains: Web browser](/assets/images/menus_2.png)
 
+## Questionnaires
+
+The UEQ-S consists of eight items that are grouped into two scales (hedonic quality and pragmatic quality). As shown in the following table, each item has a positive and a negative value that must be rated from 1 (being the negative value of the item) to 7 (being the positive value of the item), and 4 being the neutral value.
+
+| Scale       | ID 	| Negative Value | Positive Value |
+| ----------- | --- |----------- |----------- |----------- |
+| Pragmatic Quality | I1 | obstructive| supportive |
+|    |         |
+
+
+
+
+## Downloadable material
 
 For this experiment we used PowerPoint slides. We used a template and then generaded more pptx for each participants using a different menu order of use. This template can be downloaded [here](downloads/instrumentation/slides.ppts) (In Spanish)
 
