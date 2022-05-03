@@ -35,9 +35,10 @@ The UEQ-S consists of eight items that are grouped into two scales (hedonic qual
 | ^ | I4 | confusing| clear |
 | ----------- | --- |----------- |----------- |----------- |
 | Hedonic Quality   | I5 | boring| exciting |
-| ^ | I6 | not interesting | interesting |
-| ^ | I7 | conventional| inventive |
-| ^ | I8 | usual| leading edge |
+|^ | I6 | not interesting | interesting |
+|^ | I7 | conventional| inventive |
+|^ | I8 | usual| leading edge |
+| ----------- | --- |----------- |----------- |----------- |
 
 
 
