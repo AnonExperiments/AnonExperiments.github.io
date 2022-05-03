@@ -30,7 +30,14 @@ The UEQ-S consists of eight items that are grouped into two scales (hedonic qual
 | Scale       | ID 	| Negative Value | Positive Value |
 | ----------- | --- |----------- |----------- |----------- |
 | Pragmatic Quality | I1 | obstructive| supportive |
-|    |         |
+|  | I2 | obstructive| supportive |
+|  | I3 | obstructive| supportive |
+|  | I4 | obstructive| supportive |
+| ----------- | --- |----------- |----------- |----------- |
+| Hedonic Quality   | I5 | obstructive| supportive |
+|  | I6 | obstructive| supportive |
+|  | I7 | obstructive| supportive |
+|  | I8 | obstructive| supportive |
 
 
 
