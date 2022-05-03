@@ -5,7 +5,6 @@ layout: showResults
 <body>
 
 
-<div class="container-fluid main-container">
 
 
 
@@ -2566,11 +2565,6 @@ Mostrar Ocultar pruebas de homogeneidad
 </tbody>
 </table>
 </div>
-</div>
-
-
-
-
 </div>
 
 <script>
