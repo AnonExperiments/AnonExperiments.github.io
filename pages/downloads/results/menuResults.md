@@ -15,15 +15,15 @@ layout: showResults
 
 <h1 class="title toc-ignore">Estudio menús de usuario</h1>
 
-<a href="https://anonexperiments.github.io/pages/Experiment-2.html">Go Back to the website</a>
+<a href="https://anonexperiments.github.io/pages/Experiment-2.html">Go Back to the Experiment overview</a>
 
 </div>
 
 
 <div id="analisis-descriptivo" class="section level3">
-<h3>Analisis descriptivo</h3>
+<h3>Descriptive analysis</h3>
 <button class="btn btn-primary" data-toggle="collapse" data-target="#AD">
-Mostrar/Ocultar Analisis descriptivo
+Show/Hide Descriptive analysis
 </button>
 <div id="AD" class="collapse">
 <table>
@@ -920,14 +920,14 @@ Mostrar/Ocultar Analisis descriptivo
 </tr>
 </tbody>
 </table>
-<button class="btn btn-primary" data-toggle="collapse" data-target="#AD">Mostrar/Ocultar
+<button class="btn btn-primary" data-toggle="collapse" data-target="#AD">Show/Hide
 analisis descriptivo</button></p>
 </div>
 </div>
 <div id="pruebas-de-normalidad" class="section level3">
-<h3>Pruebas de normalidad</h3>
+<h3>Normality tests</h3>
 <button class="btn btn-primary" data-toggle="collapse" data-target="#PN">
-Mostrar Ocultar pruebas de normalidad
+Show/Hide Normality tests
 </button>
 <div id="PN" class="collapse">
 <table>
@@ -1649,14 +1649,14 @@ Mostrar Ocultar pruebas de normalidad
 </tbody>
 </table>
 <button class="btn btn-primary" data-toggle="collapse" data-target="#PN">
-Mostrar Ocultar pruebas de normalidad
+Show/Hide Normality tests
 </button>
 </div>
 </div>
 <div id="pruebas-de-homogeneidad-de-varianza" class="section level3">
-<h3>Pruebas de homogeneidad de varianza</h3>
+<h3>Homogeneity tests</h3>
 <button class="btn btn-primary" data-toggle="collapse" data-target="#PHO">
-Mostrar Ocultar pruebas de homogeneidad
+Show/Hide Homogeneity tests
 </button>
 <div id="PHO" class="collapse">
 <p>Workload</p>
@@ -2374,12 +2374,12 @@ on the absolute deviations from the median</td>
 </tbody>
 </table>
 <button class="btn btn-primary" data-toggle="collapse" data-target="#PHO">
-Mostrar Ocultar pruebas de homogeneidad
+Show/Hide Homogeneity tests
 </button>
 </div>
 </div>
 <div id="prueba-de-hipotesis" class="section level3">
-<h3>Prueba de hipotesis</h3>
+<h3>Hypothesis test</h3>
 <p>Workload</p>
 <table>
 <colgroup>
@@ -2507,7 +2507,7 @@ Mostrar Ocultar pruebas de homogeneidad
 </div>
 
 <div id="analisis-de-effectsize" class="section level3">
-<h3>Analisis de EffectSize</h3>
+<h3>EffectSize Analysis</h3>
 <div id="cliffs-delta" class="section level4">
 <h4>Cliff’s Delta</h4>
 <table>
